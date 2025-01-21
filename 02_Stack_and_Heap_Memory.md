@@ -20,6 +20,10 @@ console.log(anothername);           // Sachin
 
 <img src="https://github.com/user-attachments/assets/ade9ea50-8b19-4352-8597-43d1fba3741a" alt="Stack1" width="500" height="400">
 
+<img src="https://github.com/user-attachments/assets/04bca8e1-8efa-4d10-bb0c-525a01d471af" alt="Stack1" width="300" height="200">
+
+
+
 
 ### 1. Heap Memory
 
