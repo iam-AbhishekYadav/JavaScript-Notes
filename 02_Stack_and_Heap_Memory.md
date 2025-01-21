@@ -17,6 +17,8 @@ anothername = "Sachin"
 console.log(name);                  // Abhi
 console.log(anothername);           // Sachin
 ```
+**<------------------------- STACK MEMORY DIAGRAM ------------------------->**
+
 
 <img src="https://github.com/user-attachments/assets/ade9ea50-8b19-4352-8597-43d1fba3741a" alt="Stack1" width="400" height="300">
 
@@ -55,7 +57,7 @@ console.log("User StudentId :",user.studentId);                            // Us
 console.log("anotherUser name :",anotheruser.name);                        // anotherUser name : Sachin 
 console.log("anotherUser StudentId :",anotheruser.studentId);              // anotherUser StudentId : 789456
 ```
-**<------------------------- HEAP DIAGRAM ------------------------->**
+**<------------------------- HEAP MEMORY DIAGRAM ------------------------->**
 
 <img src="https://github.com/user-attachments/assets/4df918df-1e90-4e33-bd17-42888910a361" alt="Stack1" width="500" height="300">
 
