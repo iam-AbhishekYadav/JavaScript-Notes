@@ -17,7 +17,7 @@ anothername = "Sachin"
 console.log(name);                  // Abhi
 console.log(anothername);           // Sachin
 ```
-![Alt text](https://raw.githubusercontent.com/username/repository/branch-name/image-path.webp)
+https://raw.githubusercontent.com/username/repository/branch-name/image-path.webp
 
 ### 1. Heap Memory
 
