@@ -17,7 +17,7 @@ anothername = "Sachin"
 console.log(name);                  // Abhi
 console.log(anothername);           // Sachin
 ```
-**<------------------------- STACK DIAGRAM ------------------------->**
+<img src=""D:\Downloads\Git Images\Stack1.webp"" alt="Stack Diagram" width="500">
 
 ### 1. Heap Memory
 
