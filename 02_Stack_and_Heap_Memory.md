@@ -59,7 +59,7 @@ console.log("anotherUser StudentId :",anotheruser.studentId);              // an
 
 <img src="https://github.com/user-attachments/assets/4df918df-1e90-4e33-bd17-42888910a361" alt="Stack1" width="500" height="300">
 
-<img src="https://github.com/user-attachments/assets/4b9a5493-88ba-40ee-98c1-072ff96b75f6" alt="Stack1" width="700" height="400">
+<img src="https://github.com/user-attachments/assets/4b9a5493-88ba-40ee-98c1-072ff96b75f6" alt="Stack1" width="1200" height="400">
 
 
 
