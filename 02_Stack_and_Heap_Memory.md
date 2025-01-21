@@ -56,3 +56,16 @@ console.log("anotherUser name :",anotheruser.name);                        // an
 console.log("anotherUser StudentId :",anotheruser.studentId);              // anotherUser StudentId : 789456
 ```
 **<------------------------- HEAP DIAGRAM ------------------------->**
+
+<img src="https://github.com/user-attachments/assets/4df918df-1e90-4e33-bd17-42888910a361" alt="Stack1" width="500" height="300">
+
+
+
+
+
+
+
+
+
+
+
