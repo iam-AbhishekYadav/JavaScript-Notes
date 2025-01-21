@@ -18,7 +18,7 @@ console.log(name);                  // Abhi
 console.log(anothername);           // Sachin
 ```
 
-![Stack1](https://github.com/user-attachments/assets/0e0abc1e-d3a3-447f-9ffe-434ecf7b157a)
+<img src="https://github.com/user-attachments/assets/unique-image-id" alt="Stack Diagram" width="400" />
 
 ### 1. Heap Memory
 
