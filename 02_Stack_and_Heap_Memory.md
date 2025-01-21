@@ -17,8 +17,8 @@ anothername = "Sachin"
 console.log(name);                  // Abhi
 console.log(anothername);           // Sachin
 ```
-![Stack Diagram](https://github.com/user-attachments/assets/unique-image-id)
 
+![Stack1](https://github.com/user-attachments/assets/0e0abc1e-d3a3-447f-9ffe-434ecf7b157a)
 
 ### 1. Heap Memory
 
