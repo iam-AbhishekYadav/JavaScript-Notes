@@ -18,8 +18,6 @@ console.log(name);                  // Abhi
 console.log(anothername);           // Sachin
 ```
 
-![Stack1](https://github.com/user-attachments/assets/ad887a73-06e2-44ff-9433-506b50611e4d)
-
 <img src="https://github.com/user-attachments/assets/ad887a73-06e2-44ff-9433-506b50611e4d" alt="Stack1" width="300" height="200">
 
 
