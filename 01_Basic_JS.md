@@ -53,11 +53,11 @@ Data types are  divided into two categories.
 ``` js
      let score =                         "77" || "77abc" || null || undefined
      let valueINNumber = Number(score)   ----    --------   ----    ---------
-     console.log(valueINNumber)          77  ||   NaN   ||  0   ||   NaN
+     console.log(valueINNumber)           77  ||   NaN   ||  0   ||   NaN
 
-     let isLoggedIn =                               1    ||   0   || "sidd" || ""                        
-     let booleanIsLoggedIn = Boolean(isLoggedIn)    ---     -----    ------    ---
-     console.log(booleanIsLoggedIn)                 true || false ||  true  || false
+     let isLoggedIn =                                1    ||   0   || "sidd" || ""                        
+     let booleanIsLoggedIn = Boolean(isLoggedIn)    ---      -----    ------    ---
+     console.log(booleanIsLoggedIn)                 true  ||  false ||  true  || false
 ```
 
 ## # Arithmetic Operators in JS
