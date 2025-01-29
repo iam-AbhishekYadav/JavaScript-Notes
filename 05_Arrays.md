@@ -219,9 +219,9 @@ console.log(real_another_array);             // Output :  [ 1, 2, 3, 4, 5, 6, 7,
 ### When data is required in array 
 
 ``` js
-console.log(Array.isArray("Hitesh"))          // Output : false
-console.log(Array.from("Hitesh"))             // Output : [ 'S', 'a', 'c', 'h', 'i', 'n' ]
-console.log(Array.from({name: "hitesh"}))     // interesting // Output : [ ]
+console.log(Array.isArray("Sachin"))          // Output : false
+console.log(Array.from("Sachin"))             // Output : [ 'S', 'a', 'c', 'h', 'i', 'n' ]
+console.log(Array.from({name: "Sachin"}))     // interesting // Output : [ ]
 ```
 ### Converting Multiple Variables into Array
 
