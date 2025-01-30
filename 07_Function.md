@@ -82,6 +82,18 @@ handleObject({                        // Output 2 : Username is Sachin and price
     price: 399
 })
 ```
+## How to pass Object in Function ??
+
+``` js
+const myNewArray = [200,400,100,600]
+
+function returnSecondValue(getArray) {
+    return getArray[2]
+}
+
+console.log(returnSecondValue(myNewArray));                           // Output 1 : 400
+
+console.log(returnSecondValue([Abhi,Sachin,Siddharth,Sagar]));        // Output 1 : Sachin
 
 ## Function Expression/Hoisting
 
