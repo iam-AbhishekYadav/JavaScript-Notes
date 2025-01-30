@@ -51,7 +51,7 @@ console.log("username :" ,username);           // Output : username : Abhishek
 ## Rest Parameter 
 
 - It allows us to represent an indefinite number of arguments as an array.
-- It is prefixed with three dots (...).
+- It is prefixed with three dots **(...)**.
 - It return Array.
 
 ``` js
